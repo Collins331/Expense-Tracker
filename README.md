@@ -1,2 +1,2 @@
-# Ex-ense-Tracker
-Expense Tracker build using MERN (MongoDB, Expressjs, React and Nodejs)
+# EXPENSE TRACKER
+> A fullstack web application that helps in managing expenses by keeping track records and using visualization.
